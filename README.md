@@ -1,6 +1,7 @@
 ### Bem vindo ao meu GitHub!
 
-[![Blog](https://img.shields.io/website?label=Meu_Portifólio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://portifolio-git-master-sevengusta.vercel.app/)
+[![Blog](https://img.shields.io/website?label=Meu_Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://portifolio-git-master-sevengusta.vercel.app/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-neves-71388b116/)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sevengusta&show_icons=true&theme=dracula)
@@ -24,7 +25,9 @@
     <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
 
-### Em aprendizado contínuo
+### Estudando desde 2022 (Onde tudo começou)
 <div style="display: inline_block"> <br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+    
 </div>

@@ -1,13 +1,28 @@
+<div align="center"> 
+
+
+
+
+
 ### Bem vindo ao meu GitHub!
 
 [![Blog](https://img.shields.io/website?label=Meu_Portfólio&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://portifolio-git-master-sevengusta.vercel.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-neves-71388b116/)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevengusta&layout=compact&theme=dracula)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sevengusta&show_icons=true&theme=dracula)
 
 
-## tecnologias que utilizo no meu dia 
+
+
+
+
+
+
+## tecnologias que utilizo  no meu dia 
+
 ### Frontend
 <div style="display: inline_block"> <br/>
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
@@ -30,4 +45,10 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
     
+</div> </br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sevengusta&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph&bg_color)
+
+
+
 </div>
